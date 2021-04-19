@@ -1,0 +1,23 @@
+F:\visual studio\CRUDMsAccess\CRUDMsAccess\bin\Debug\mydb.accdb
+F:\visual studio\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe.config
+F:\visual studio\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe
+F:\visual studio\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.pdb
+F:\visual studio\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csprojAssemblyReference.cache
+F:\visual studio\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Form1.resources
+F:\visual studio\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Properties.Resources.resources
+F:\visual studio\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.GenerateResource.cache
+F:\visual studio\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.CoreCompileInputs.cache
+F:\visual studio\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.exe
+F:\visual studio\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.pdb
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe.config
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.exe
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.pdb
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\bin\Debug\mydb.accdb
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.pdb
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\bin\Debug\System.Net.Http.dll
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\bin\Debug\System.Net.Http.xml
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csprojResolveAssemblyReference.cache
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Form1.resources
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Properties.Resources.resources
+D:\CRUDMsAccess\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.GenerateResource.Cache
